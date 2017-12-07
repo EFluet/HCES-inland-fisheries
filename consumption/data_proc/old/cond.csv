@@ -1,0 +1,5 @@
+src_cond,conf_cond,trade_file,src_cond_fishstatj,filename_suffix
+F|F/M,high,./fishstatj_data/read_nat_trade_data_fw.r,Inland,fw_high
+M|F/M,high,./fishstatj_data/read_nat_trade_data_mar.r,Marine,mar_high
+M|F|F/M,low,./fishstatj_data/read_nat_trade_data_all.r,Inland|Marine,all_low
+M|F|F/M,high,./fishstatj_data/read_nat_trade_data_all.r,Inland|Marine,all_high
